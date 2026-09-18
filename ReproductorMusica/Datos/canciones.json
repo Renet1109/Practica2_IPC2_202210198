@@ -1,0 +1,7 @@
+[
+  { "titulo": "Bohemian Rhapsody", "artista": "Queen", "genero": "Rock", "duracion": 6 },
+  { "titulo": "Blinding Lights", "artista": "The Weeknd", "genero": "Pop", "duracion": 3 },
+  { "titulo": "Take Five", "artista": "Dave Brubeck", "genero": "Jazz", "duracion": 5 },
+  { "titulo": "Clair de Lune", "artista": "Claude Debussy", "genero": "Clásica", "duracion": 8 },
+  { "titulo": "Imagine", "artista": "John Lennon", "genero": "Pop", "duracion": 3 }
+]
